@@ -1,0 +1,2 @@
+yt_polish =['https://www.youtube.com/user/vroobelekbillie/videos', 'https://www.youtube.com/c/7metrówpodziemią/videos', 'https://www.youtube.com/c/ArlenaWitt/videos','https://www.youtube.com/c/KasiaGandor/videos','https://www.youtube.com/c/NishkaMovie/videos','https://www.youtube.com/c/PsychoLoszka/videos']
+yt_japanese = ['https://www.youtube.com/c/AniMelody2/videos','https://www.youtube.com/channel/UCHJSUG4MRcFszyC5qj7s7Uw']

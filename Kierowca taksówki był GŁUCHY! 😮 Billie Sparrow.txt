@@ -1,0 +1,302 @@
+{'text': 'Czeœæ, witam Was bardzo na moim kanale.', 'start': 0.0, 'duration': 2.4}
+{'text': 'Tak, tak, wiem.', 'start': 2.4, 'duration': 0.9}
+{'text': 'Myœleliœcie, ¿e umar³am.', 'start': 3.3, 'duration': 1.4}
+{'text': 'Ale to tak nie jest.', 'start': 4.7, 'duration': 1.2}
+{'text': 'Chodzi o to, ¿e biorê œlub nied³ugo,', 'start': 5.9, 'duration': 2.0}
+{'text': 'wiêc jakby jestem zaoferowana tymi przygotowaniami.', 'start': 7.9, 'duration': 3.0}
+{'text': 'A po drugie.', 'start': 10.9, 'duration': 0.8}
+{'text': 'Mia³am taki trochê kryzys i podjê³am decyzjê.', 'start': 11.7, 'duration': 3.4}
+{'text': 'Podjê³am tak¹ decyzjê, co zrobiæ dalej z tym kana³em.', 'start': 16.5, 'duration': 3.5}
+{'text': 'I tylko w jednym, krótkim zdaniu powiem.', 'start': 20.0, 'duration': 2.4}
+{'text': 'Po prostu chcia³abym, ¿eby nadal, \njasne, taka anegdotyczna forma tego,', 'start': 22.4, 'duration': 4.6}
+{'text': '¿e podstaw¹ wszystkiego jest moje doœwiadczenie.', 'start': 27.0, 'duration': 2.0}
+{'text': 'Pozosta³a - tak.', 'start': 29.0, 'duration': 1.3}
+{'text': 'Ale chcia³abym trochê skrêciæ w tê stronê,', 'start': 30.3, 'duration': 3.2}
+{'text': '¿eby to by³o zawsze powi¹zane z komunikacj¹, z jêzykiem.', 'start': 33.5, 'duration': 4.2}
+{'text': 'Dlatego, ¿e ja zaczê³am pracowaæ jako t³umaczka.', 'start': 37.7, 'duration': 2.8}
+{'text': 'Koñczê teraz studia filologiczne.', 'start': 40.5, 'duration': 2.0}
+{'text': 'Dalej bêdê pracowa³a prawdopodobnie jako badaczka jêzyka.', 'start': 42.5, 'duration': 2.9}
+{'text': 'To jest teraz moje ¿ycie.', 'start': 45.4, 'duration': 1.7}
+{'text': 'I mam nadziejê, ¿e po prostu bêdziecie \ndalej p³ynêli za mn¹ na tym statku.', 'start': 47.1, 'duration': 4.9}
+{'text': 'Oprócz tego zapraszam na mojego Instagrama.', 'start': 52.0, 'duration': 2.5}
+{'text': 'I na mój drugi kana³, który prowadzê z Hani¹.', 'start': 54.5, 'duration': 2.7}
+{'text': 'U której w³aœnie siedzê w tym momencie.', 'start': 57.2, 'duration': 2.0}
+{'text': 'Gdzie tam bêdziemy bardziej gadaæ \nca³y czas na takie ¿yciowo,', 'start': 59.2, 'duration': 3.7}
+{'text': 'czysto ¿yciowo lifestylowe rzeczy.', 'start': 62.9, 'duration': 1.8}
+{'text': 'Lecimy dalej.', 'start': 64.7, 'duration': 0.8}
+{'text': 'Nie je¿d¿ê samochodem, zwykle je¿d¿ê komunikacj¹ miejsk¹,', 'start': 65.5, 'duration': 2.9}
+{'text': 'ale czasami korzystam z jakichœ ró¿nych Boltów, Uberów itd.', 'start': 68.4, 'duration': 3.7}
+{'text': 'Nikt nie sponsorowa³ tego odcinka.', 'start': 72.1, 'duration': 1.7}
+{'text': 'Niestety.', 'start': 73.8, 'duration': 0.9}
+{'text': 'Ale chcia³am Wam opowiedzieæ jak pewnego dnia', 'start': 74.7, 'duration': 2.7}
+{'text': 'wo³am sobie "bolcika" tak, jak zawsze.', 'start': 77.4, 'duration': 2.7}
+{'text': 'Wsiadam, patrzê.', 'start': 80.1, 'duration': 1.0}
+{'text': 'A tutaj na zag³ówku przede mn¹ kartka,', 'start': 81.1, 'duration': 3.9}
+{'text': '¿e kierowca jest nies³ysz¹cy.', 'start': 85.0, 'duration': 3.3}
+{'text': 'Na pewno widzieliœcie... by³y te¿ takie jakieœ ró¿ne...', 'start': 88.3, 'duration': 2.5}
+{'text': 'Te wszystkie filmiki w stylu,', 'start': 90.8, 'duration': 1.7}
+{'text': '¿e nagle gdzieœ w tym uberze jedn¹ osob¹ jest osoba g³ucha.', 'start': 92.5, 'duration': 5.2}
+{'text': 'One zawsze maj¹ ten wydŸwiêk pod tytu³em, ¿e:', 'start': 97.7, 'duration': 2.7}
+{'text': '- Ooo... co za dziwna sytuacja, \n¿e spotka³em kogoœ, kto nie s³yszy.', 'start': 100.4, 'duration': 5.4}
+{'text': 'No i ja wsiadam do tego ubera... bolta.', 'start': 105.8, 'duration': 2.9}
+{'text': 'Patrzê na tê kartkê.', 'start': 108.7, 'duration': 1.0}
+{'text': 'I mamy tutaj do czynienia z trochê inn¹ histori¹, ni¿ zwykle.', 'start': 109.7, 'duration': 3.1}
+{'text': 'Dlatego, ¿e ja znam polski jêzyk migowy.', 'start': 112.8, 'duration': 2.4}
+{'text': 'No to ja lecê, mówiê...', 'start': 115.2, 'duration': 1.8}
+{'text': 'A tamten facet...', 'start': 118.5, 'duration': 1.5}
+{'text': 'Po pierwsze wiadomo - szoczek.', 'start': 120.0, 'duration': 2.4}
+{'text': 'I miga do mnie: "Ukraina".', 'start': 122.4, 'duration': 2.3}
+{'text': 'Wiêc po pierwsze.', 'start': 124.7, 'duration': 1.4}
+{'text': 'Ja tylko przypomnê.', 'start': 126.1, 'duration': 1.7}
+{'text': 'Mam nadziejê, ¿e ju¿ wszyscy o tym wiemy,', 'start': 127.8, 'duration': 1.1}
+{'text': 'ale nie ma jednego jêzyka migowego na œwiecie.', 'start': 128.9, 'duration': 2.8}
+{'text': 'Nie ma, nie ma.', 'start': 131.7, 'duration': 1.0}
+{'text': 'Tutaj mamy polski jêzyk migowy.', 'start': 132.7, 'duration': 2.7}
+{'text': 'Ja znam polski jêzyk migowy.', 'start': 135.4, 'duration': 1.8}
+{'text': 'Ok, ja zamiga³am do niego na pocz¹tku.', 'start': 137.2, 'duration': 2.3}
+{'text': 'Zwróci³am najpierw jego uwagê.', 'start': 139.5, 'duration': 1.8}
+{'text': 'Tak siê zwraca uwagê przed wypowiedzeniem.', 'start': 141.3, 'duration': 2.9}
+{'text': 'I zapyta³am: "Czy Ty jesteœ g³uchy? Migasz?"', 'start': 144.2, 'duration': 3.2}
+{'text': 'No i on to zrozumia³.', 'start': 147.4, 'duration': 1.5}
+{'text': 'Tak siê dok³adnie miga w polskim jêzyku migowym.', 'start': 148.9, 'duration': 3.3}
+{'text': 'Ale tak siê te¿ miga w miêdzynarodowym.', 'start': 152.2, 'duration': 2.8}
+{'text': 'International Sign.', 'start': 155.0, 'duration': 1.4}
+{'text': 'No i tutaj zaczynaj¹ siê schody.', 'start': 156.4, 'duration': 2.9}
+{'text': 'Schodki takie, takie schodki malutkie tylko.', 'start': 159.3, 'duration': 2.2}
+{'text': 'Matko, ale to bêdzie dziwny odcinek...', 'start': 161.5, 'duration': 2.5}
+{'text': 'Chcia³abym poleciæ Wam takie konto na Instagramie.', 'start': 164.0, 'duration': 3.7}
+{'text': 'Creallinno.', 'start': 167.7, 'duration': 1.1}
+{'text': 'Które prowadzi Renata, która jest\n specjalistk¹ od miêdzynarodowego migowego.', 'start': 168.8, 'duration': 6.2}
+{'text': 'Czyli International Sign.', 'start': 175.0, 'duration': 1.7}
+{'text': 'Ona siê w tym specjalizuje.', 'start': 176.7, 'duration': 1.1}
+{'text': 'I mo¿ecie na pewno jej zadawaæ ró¿ne\n pytania na Instagramie dotycz¹cego tego.', 'start': 177.8, 'duration': 2.9}
+{'text': 'Ale ja chcia³abym tylko krótko powiedzieæ,', 'start': 180.7, 'duration': 3.0}
+{'text': '¿e to nie jest twór uznany, jako prawdziwy jêzyk.', 'start': 183.7, 'duration': 5.7}
+{'text': 'Tylko to jest taki sposób wizualnej komunikacji.', 'start': 189.4, 'duration': 4.3}
+{'text': 'Zlepek ró¿nych znaków z ró¿nych jêzyków migowych', 'start': 193.7, 'duration': 5.4}
+{'text': 'wykorzystuj¹cy cechy gramatyki jêzyków migowych,', 'start': 199.1, 'duration': 3.9}
+{'text': 'które s¹ wizualne, przestrzenne,', 'start': 203.0, 'duration': 2.7}
+{'text': 'wiêc ³atwo je odczytaæ dla ka¿dego.', 'start': 205.7, 'duration': 2.7}
+{'text': 'No i te¿ wykorzystuje mimikê, wiadomo.', 'start': 208.4, 'duration': 1.9}
+{'text': 'No wiêc on zrozumia³ moj¹ wypowiedŸ \ni odpowiedzia³ mi, ¿e jest z Ukrainy.', 'start': 210.3, 'duration': 3.2}
+{'text': 'Chcia³abym tak tylko podkreœliæ,', 'start': 213.5, 'duration': 1.3}
+{'text': '¿e jakbyœmy mówili dwoma jêzykami fonicznymi, ró¿nymi,', 'start': 214.8, 'duration': 2.7}
+{'text': 'to myœlê, ¿e mniej byœmy siê dogadali.', 'start': 217.5, 'duration': 2.5}
+{'text': 'I ja mówiê do niego, ¿e, ale ja jestem s³ysz¹ca,', 'start': 220.0, 'duration': 3.9}
+{'text': 'bo tak jest "s³ysz¹cy" w polskim jêzyku migowym.', 'start': 223.9, 'duration': 3.1}
+{'text': 'A on do mnie pokaza³ "s³ysz¹cy".', 'start': 227.0, 'duration': 2.7}
+{'text': 'W tamtym momencie ja nie wiedzia³am sk¹d to jest, z czego to jest.', 'start': 229.7, 'duration': 4.0}
+{'text': 'Czy to jest z jego jêzyka migowego.', 'start': 233.7, 'duration': 2.0}
+{'text': 'Te¿ nie mam pewnoœci, czy on pos³uguje siê na co dzieñ', 'start': 235.7, 'duration': 3.8}
+{'text': 'bardziej ukraiñskim jêzykiem migowym, \nczy rosyjskim jêzykiem migowym,', 'start': 239.5, 'duration': 3.0}
+{'text': 'bo one ogólnie s¹ podobne,', 'start': 242.5, 'duration': 1.9}
+{'text': 'wiêc w tamtym momencie, jak on to zrobi³', 'start': 244.4, 'duration': 1.5}
+{'text': 'ja w ogóle nie wiedzia³am sk¹d to jest.', 'start': 245.9, 'duration': 2.3}
+{'text': 'Ale z kontekstu rozumia³am, tak?', 'start': 248.2, 'duration': 1.5}
+{'text': '¯e ja mu pokazujê, ¿e ja s³ysz¹ca.', 'start': 249.7, 'duration': 1.8}
+{'text': 'Te¿ dobry taki znak do zrozumienia, tak?', 'start': 251.5, 'duration': 3.7}
+{'text': 'Wskazujemy swoje ucho.', 'start': 255.2, 'duration': 1.2}
+{'text': 'Wiêc dla niego na pewno to nie by³o \n¿adnego problemu, ¿eby to odkodowaæ.', 'start': 256.4, 'duration': 3.3}
+{'text': 'A on pokaza³ mi tak.', 'start': 259.7, 'duration': 1.2}
+{'text': 'Ja przygotowa³am siê bardzo ³adnie \ndo tego odcinka, pozdrawiam.', 'start': 260.9, 'duration': 3.1}
+{'text': 'I znalaz³am na stronie Spreadthesign.', 'start': 264.0, 'duration': 3.1}
+{'text': 'Mo¿ecie sobie zajrzeæ na tê stronê.', 'start': 267.1, 'duration': 1.4}
+{'text': 'I tam ogl¹daæ ró¿ne znaki migowe z ró¿nych pañstw.', 'start': 268.5, 'duration': 4.2}
+{'text': 'I tam w³aœnie znalaz³am, ¿e to jest z znak "s³ysz¹cy"', 'start': 272.7, 'duration': 3.0}
+{'text': 'w³aœnie z International Sign.', 'start': 275.7, 'duration': 2.4}
+{'text': 'Wiêc mo¿na by wnioskowaæ i jakby dalsza rozmowa to potwierdza,', 'start': 278.1, 'duration': 3.9}
+{'text': '¿e Pan Ukrainiec zna³ przynajmniej jakieœ podstawy miêdzynarodowego migowego,', 'start': 282.0, 'duration': 5.4}
+{'text': 'bo to wcale nie jest takie oczywiste.', 'start': 287.4, 'duration': 2.7}
+{'text': 'Czêsto s³ysz¹cy mnie pytaj¹:', 'start': 290.1, 'duration': 1.7}
+{'text': '- O... to ja siê nauczê tylko tego miêdzynarodowego \ni ka¿dy bêdzie mnie rozumia³.', 'start': 291.8, 'duration': 3.7}
+{'text': 'Ka¿dy g³uchy na œwiecie, bo to na pewno, \njak angielski wœród s³ysz¹cych.', 'start': 295.5, 'duration': 4.2}
+{'text': 'W ogóle nie, ani trochê.', 'start': 299.7, 'duration': 1.8}
+{'text': 'W³aœnie dlatego, ¿e trzeba mieæ podstawy \njakiegoœ naturalnego,', 'start': 301.5, 'duration': 3.4}
+{'text': 'prawdziwego jêzyka migowego, pe³nego,', 'start': 304.9, 'duration': 3.3}
+{'text': '¿eby móc dalej przejœæ w ten taki bardzo elastyczny po prostu sposób wizualnej komunikacji,', 'start': 308.2, 'duration': 5.7}
+{'text': 'jakim jest ten miêdzynarodowy migowy.', 'start': 313.9, 'duration': 1.5}
+{'text': 'No i potem ruszyliœmy, prawda?', 'start': 315.4, 'duration': 1.9}
+{'text': 'I znowu, jak stanêliœmy gdzieœ na jakichœ œwiat³ach,', 'start': 317.3, 'duration': 3.1}
+{'text': 'by³ korek akurat.', 'start': 320.4, 'duration': 1.3}
+{'text': 'No to zaczêliœmy sobie gadaæ.', 'start': 321.7, 'duration': 1.5}
+{'text': 'I Pan zapyta³ mnie tak:', 'start': 323.2, 'duration': 2.7}
+{'text': 'On to robi³ tak "uczyæ siê".', 'start': 328.7, 'duration': 2.2}
+{'text': 'A w PJM-ie ja przynajmniej migam tak "uczyæ siê".', 'start': 330.9, 'duration': 2.8}
+{'text': 'A on miga³ "uczyæ siê" jakby trzema palcami.', 'start': 333.7, 'duration': 3.7}
+{'text': 'Dlatego dla mnie to nie by³ problem, ¿eby to zrozumieæ.', 'start': 337.4, 'duration': 2.3}
+{'text': 'Bo kontekst by³ oczywisty.', 'start': 339.7, 'duration': 1.7}
+{'text': 'Znak wygl¹da³ prawie tak samo, jak po polsku, wiêc ok.', 'start': 341.4, 'duration': 3.1}
+{'text': 'Zrozumia³am, ¿e jakby gdzie siê uczy³am tego migania, \nsk¹d potrafiê migaæ.', 'start': 344.5, 'duration': 5.4}
+{'text': 'No i tutaj siê zaczê³y wspania³e schody,', 'start': 349.9, 'duration': 4.0}
+{'text': '¿eby odpowiedzieæ, ¿e nauczy³am siê migaæ na uniwersytecie.', 'start': 353.9, 'duration': 4.5}
+{'text': 'W pierwszym odruchu no to migam normalnie, ¿e "studia".', 'start': 358.4, 'duration': 2.9}
+{'text': 'Tak, jak w polskim jêzyku migowym siê miga "studia".', 'start': 361.3, 'duration': 2.8}
+{'text': 'A Pan...', 'start': 364.1, 'duration': 1.3}
+{'text': 'On po prostu nie zna³ tego s³owa, nie zna³ PJM-u.', 'start': 365.4, 'duration': 3.4}
+{'text': 'No to ja mówiê...', 'start': 368.8, 'duration': 1.0}
+{'text': 'Akurat tak siê sk³ada, ¿e znam podstawy \namerykañskiego jêzyka migowego.', 'start': 369.8, 'duration': 5.5}
+{'text': 'I znam te¿ alfabet, który jest u¿ywany zarówno \nw amerykañskim jêzyku migowym', 'start': 375.3, 'duration': 5.4}
+{'text': 'i w miêdzynarodowym migowym.', 'start': 380.7, 'duration': 2.5}
+{'text': 'No to mówiê, ok, przeliterujê po prostu "university".', 'start': 383.2, 'duration': 3.9}
+{'text': 'A on dalej...', 'start': 387.1, 'duration': 2.0}
+{'text': 'Dalej nie wiedzia³ co to jest.', 'start': 389.1, 'duration': 1.7}
+{'text': 'No, bo... ¿eby zrozumieæ to on musia³by znaæ \ni alfabet z miêdzynarodowego', 'start': 390.8, 'duration': 8.0}
+{'text': 'i jêzyk angielski, ¿eby znaæ s³owo "university".', 'start': 398.8, 'duration': 3.5}
+{'text': 'No, ale nie zna³.', 'start': 402.3, 'duration': 1.2}
+{'text': 'Wiêc nie uda³o siê pójœæ na skróty tutaj,', 'start': 403.5, 'duration': 2.9}
+{'text': 'bo ogólnie literowanie w jêzykach migowych,', 'start': 406.4, 'duration': 3.3}
+{'text': 'czyli po prostu tak jakby pisanie w powietrzu s³ów z jêzyków fonicznych,', 'start': 409.7, 'duration': 5.0}
+{'text': 'to jakieœ totalne komunikacyjne pójœcie na skróty.', 'start': 414.7, 'duration': 3.4}
+{'text': 'Jeszcze chcia³abym nadmieniæ, ¿e mieliœmy maseczki,', 'start': 418.1, 'duration': 2.3}
+{'text': 'wiêc te¿ trochê by³a ograniczana mimika.', 'start': 420.4, 'duration': 2.7}
+{'text': 'Wiêc mówiê tak.', 'start': 423.1, 'duration': 1.7}
+{'text': 'Tam, gdzie czyta siê ksi¹¿ki i pisze siê.', 'start': 424.8, 'duration': 4.7}
+{'text': 'Po prostu zamiga³am w PJM-ie,', 'start': 429.5, 'duration': 2.4}
+{'text': 'ale tak dosyæ powiedzmy wizualnie i prosto.', 'start': 431.9, 'duration': 4.5}
+{'text': 'Jakby rezygnuj¹c z tego, ¿e ja ju¿ mu nie powiem, ¿e to jest uniwersytet,', 'start': 436.4, 'duration': 3.5}
+{'text': 'ale powiem mu, ¿e to jest jakaœ szko³a.', 'start': 439.9, 'duration': 2.5}
+{'text': 'Czaicie?', 'start': 442.4, 'duration': 0.7}
+{'text': '¯e jakby to nie jest tak, ¿e na przyk³ad od znajomych.', 'start': 443.1, 'duration': 4.9}
+{'text': 'Albo od rodziców.', 'start': 448.0, 'duration': 1.4}
+{'text': 'Tylko powiem mu, ¿e uczy³am siê w jakiejœ szkole.', 'start': 449.4, 'duration': 2.4}
+{'text': 'I on totalnie "Aaa, ok".', 'start': 451.8, 'duration': 2.1}
+{'text': 'Wiêc mia³am takie: yes!', 'start': 453.9, 'duration': 2.0}
+{'text': 'Uda³o siê to zakomunikowaæ.', 'start': 455.9, 'duration': 1.8}
+{'text': 'No i dalej chcia³am mu powiedzieæ, ¿e pracujê jako t³umaczka jêzyka migowego.', 'start': 457.7, 'duration': 4.8}
+{'text': 'Wiêc jakby mówiê mu, ¿e ja, praca, t³umacz.', 'start': 462.5, 'duration': 3.0}
+{'text': 'Rozumia³ "praca", bo to jest ogólnie...', 'start': 465.5, 'duration': 2.5}
+{'text': 'W sumie zaraz Wam sprawdzê w moich notatkach,', 'start': 468.0, 'duration': 1.9}
+{'text': 'bo ja wszystko sprawdza³am.', 'start': 469.9, 'duration': 1.4}
+{'text': 'Tak, w tym miêdzynarodowym migowym', 'start': 471.3, 'duration': 2.9}
+{'text': 'te¿ znalaz³am na Spreadthesign,', 'start': 474.2, 'duration': 2.5}
+{'text': '¿e tak mo¿na migaæ "praca".', 'start': 476.7, 'duration': 1.4}
+{'text': 'Wiêc jakby to by³o dla nas jasne,', 'start': 478.1, 'duration': 1.4}
+{'text': 'ale to by³o niejasne.', 'start': 479.5, 'duration': 1.2}
+{'text': 'No i on...', 'start': 480.7, 'duration': 1.1}
+{'text': 'A ja... to mo¿e z amerykañskiego? Interpreter, interpreting?', 'start': 481.8, 'duration': 5.2}
+{'text': 'Niestety, te¿ nie zna³ tego.', 'start': 487.0, 'duration': 1.8}
+{'text': 'Czyli te¿ by³o dla mnie jasne,', 'start': 488.8, 'duration': 1.3}
+{'text': '¿e jakby to nie jest Pan, który zna amerykañski,', 'start': 490.1, 'duration': 3.9}
+{'text': 'tylko po prostu zna w³aœnie miêdzynarodowy,', 'start': 494.0, 'duration': 1.9}
+{'text': 'czyli ten taki zlepek ró¿nych strategii komunikacyjnych,', 'start': 495.9, 'duration': 3.8}
+{'text': '¿eby porozumiewaæ siê na potrzeby \nspotkañ osób z ró¿nych pañstw', 'start': 499.7, 'duration': 5.2}
+{'text': '¿eby to by³y migowe rozmowy.', 'start': 504.9, 'duration': 2.3}
+{'text': 'No wiêc lecimy dalej, nie?', 'start': 507.2, 'duration': 3.1}
+{'text': 'Mówiê tak, ¿e:', 'start': 510.3, 'duration': 1.0}
+{'text': 'Kiedy Ty migasz, to ja to mówiê.', 'start': 511.3, 'duration': 4.4}
+{'text': 'A kiedy ktoœ, coœ mówi, to ja to do Ciebie migam.', 'start': 515.7, 'duration': 4.0}
+{'text': 'A on wtedy "Aaa..."', 'start': 519.7, 'duration': 2.0}
+{'text': 'I zrobi³ "Aaa..." i zrobi³ to.', 'start': 521.7, 'duration': 1.8}
+{'text': 'A ja "Ok".', 'start': 523.5, 'duration': 2.0}
+{'text': 'A to znalaz³am, ¿e to jest z ukraiñskiego', 'start': 525.5, 'duration': 4.9}
+{'text': 'i chyba z rosyjskiego te¿ bardzo podobnie', 'start': 530.4, 'duration': 2.3}
+{'text': 'jako "t³umacz", "t³umaczyæ".', 'start': 532.7, 'duration': 1.1}
+{'text': 'Wiêc jak ju¿ uzgodniliœmy, ¿e to jest t³umaczenie,', 'start': 533.8, 'duration': 2.9}
+{'text': 'to ja ju¿ totalnie jakby spoko.', 'start': 536.7, 'duration': 2.0}
+{'text': 'Dalej ju¿ sz³am z tym, nie?', 'start': 538.7, 'duration': 1.7}
+{'text': 'I on w ogóle w tym momencie do mnie takie, ¿e:', 'start': 540.4, 'duration': 3.7}
+{'text': '- O... to ja Ci dam telefon i bêdziesz mi t³umaczyæ?', 'start': 544.1, 'duration': 4.1}
+{'text': 'A ja takie oczy i takie...', 'start': 548.2, 'duration': 3.8}
+{'text': '...nie...', 'start': 554.0, 'duration': 1.2}
+{'text': 'Ja mówiê do niego, ¿e jakbyœ miga³ po polsku, to ok.', 'start': 555.2, 'duration': 4.7}
+{'text': 'Ale kiedy migasz takim pomieszanym jêzykiem z miêdzynarodowym, to nie.', 'start': 559.9, 'duration': 5.9}
+{'text': 'Ja nie mogê tego t³umaczyæ, nie potrafiê.', 'start': 565.8, 'duration': 2.1}
+{'text': 'Stara³am siê z tego mojego zasobu s³ownictwa, ', 'start': 567.9, 'duration': 2.9}
+{'text': 'który mam z polskiego jêzyka migowego', 'start': 570.8, 'duration': 2.4}
+{'text': 'wybieraæ jakieœ rzeczy, które mog¹ za³o¿yæ,', 'start': 573.2, 'duration': 3.5}
+{'text': '¿e prawdopodobnie bêd¹ zrozumia³e.', 'start': 576.7, 'duration': 2.2}
+{'text': 'Czyli na przyk³ad w³aœnie pomieszane.', 'start': 578.9, 'duration': 1.8}
+{'text': 'Ja nie znam miêdzynarodowego migowego.', 'start': 580.7, 'duration': 2.5}
+{'text': 'A tym bardziej nie znam ani ukraiñskiego, ani rosyjskiego,', 'start': 583.2, 'duration': 2.7}
+{'text': 'wiêc ja nie wiem, jak oni tam siê tym pos³uguj¹.', 'start': 585.9, 'duration': 2.3}
+{'text': 'Czy coœ takiego maj¹, czy nie maj¹, czy maj¹ coœ podobnego.', 'start': 588.2, 'duration': 3.0}
+{'text': 'Ale mog¹ spróbowaæ zaryzykowaæ,', 'start': 591.2, 'duration': 3.0}
+{'text': '¿e to jest zrozumia³e, coœ pomieszane.', 'start': 594.2, 'duration': 2.0}
+{'text': 'I najwyraŸniej tak zrozumia³.', 'start': 596.2, 'duration': 1.7}
+{'text': 'I chcia³am go zapytaæ jak d³ugo jest w Polsce.', 'start': 597.9, 'duration': 2.8}
+{'text': 'No i znowu jakby... nie ma siê... \njakby no nie mam tych narzêdzi.', 'start': 600.7, 'duration': 5.4}
+{'text': 'Nie wiedzia³am jakby jak to w ogóle u³o¿yæ.', 'start': 606.1, 'duration': 3.3}
+{'text': 'Wiêc tylko zaczê³am, ¿e:', 'start': 609.4, 'duration': 1.7}
+{'text': 'A Ty w Polsce?', 'start': 611.1, 'duration': 2.0}
+{'text': 'I on ju¿ totalnie zczai³ o co chodzi.', 'start': 613.1, 'duration': 3.0}
+{'text': 'I mówi do mnie, ¿e...', 'start': 616.1, 'duration': 1.7}
+{'text': 'I ja to zrozumia³am dziêki temu, \n¿e w³aœnie znam podstawy amerykañskiego. ', 'start': 620.0, 'duration': 4.7}
+{'text': 'Dlatego, ¿e to znaczy³o "lata".', 'start': 624.7, 'duration': 1.7}
+{'text': '"Rok", "lata".', 'start': 626.4, 'duration': 1.1}
+{'text': 'Dwa lata.', 'start': 627.5, 'duration': 0.7}
+{'text': 'W amerykañskim.', 'start': 628.2, 'duration': 1.3}
+{'text': 'Po polsku to jest "rok", to s¹ "lata", wiêc jakby zupe³nie inny znak.', 'start': 629.5, 'duration': 5.0}
+{'text': 'I gdybym nie zna³a jakby podstaw amerykañskiego,', 'start': 634.5, 'duration': 3.8}
+{'text': 'gdzie akurat tutaj to jest jakby zapo¿yczone \nz amerykañskiego miêdzynarodowego,', 'start': 638.3, 'duration': 5.5}
+{'text': 'to bym nie wiedzia³a o co chodzi.', 'start': 643.8, 'duration': 2.5}
+{'text': 'No, ale dziêki temu, ¿e jakby mam...', 'start': 646.3, 'duration': 3.5}
+{'text': 'mia³am jako tê bazê z jednej strony dobr¹ znajomoœæ PJM-u.', 'start': 649.8, 'duration': 4.7}
+{'text': 'Z drugiej strony - s³ab¹ znajomoœæ amerykañskiego.', 'start': 654.5, 'duration': 2.9}
+{'text': 'I mog¹c po prostu zbiæ te dwie rzeczy, ¿eby móc siê komunikowaæ.', 'start': 657.4, 'duration': 4.5}
+{'text': 'No i wtedy Pan jeszcze doda³, ¿e jego ¿ona te¿ siê przeprowadzi³a.', 'start': 661.9, 'duration': 4.9}
+{'text': '¯ona w PJM-ie miga siê inaczej.', 'start': 666.8, 'duration': 1.7}
+{'text': 'Ale Pan jakby wskaza³ tutaj na palec, \nwiêc to by³o dla mnie oczywiste.', 'start': 668.5, 'duration': 4.7}
+{'text': 'I znalaz³am potem na Spreadthesign, \n¿e w ukraiñskim tak siê miga, ¿e ma³¿onek.', 'start': 673.2, 'duration': 5.9}
+{'text': '"Przeprowadzka" w PJM-ie te¿ siê tak miga.', 'start': 679.1, 'duration': 2.2}
+{'text': 'I w³aœnie tu jest ta w³aœciwoœæ jêzyków migowych.', 'start': 681.3, 'duration': 3.4}
+{'text': 'Kiedy opowiadamy o rzeczach zwi¹zanych \njakoœ z przestrzeni¹ topograficzn¹,', 'start': 684.7, 'duration': 7.0}
+{'text': 'to wykorzystujemy na przyk³ad u³o¿enie mapy. Prawdziwej.', 'start': 691.7, 'duration': 5.3}
+{'text': 'Wiêc on wykona³ ten ruch.', 'start': 697.0, 'duration': 1.8}
+{'text': 'Na przyk³ad od tej strony w tê stronê.', 'start': 698.8, 'duration': 1.3}
+{'text': 'Dlatego, ¿e opowiada³ o przeprowadzce z Ukrainy do Polski.', 'start': 700.1, 'duration': 4.0}
+{'text': 'Ciê¿ko powiedzieæ na ile to jest gramatyka, \nna ile to jest pragmatyka.', 'start': 704.1, 'duration': 3.8}
+{'text': 'Wielkie pytanie.', 'start': 707.9, 'duration': 0.9}
+{'text': 'Ale dziêki temu ja mog³am zrozumieæ to dok³adnie.', 'start': 708.8, 'duration': 4.3}
+{'text': 'Przyjrzyjmy siê tym wszystkim rzeczom, \nktóre zadzia³y siê tutaj na moim przyk³adzie,', 'start': 713.1, 'duration': 6.4}
+{'text': '¿eby jakoœ zderzyæ siê po prostu z tym pytaniem.', 'start': 719.5, 'duration': 4.3}
+{'text': 'Czy tych dwóch u¿ytkowników ró¿nych jêzyków migowych \nmo¿e siê ze sob¹ porozumieæ.', 'start': 723.8, 'duration': 6.4}
+{'text': 'Jakie rzeczy s¹, które pomagaj¹ w tym w jêzykach migowych.', 'start': 730.2, 'duration': 3.5}
+{'text': 'Na pewno takie znaki deiktyczne.', 'start': 733.7, 'duration': 2.5}
+{'text': 'Czyli takie znaki, gdzie wskazujemy na coœ.', 'start': 736.2, 'duration': 4.3}
+{'text': 'Czyli, ¿e Ty, ja, tam.', 'start': 740.5, 'duration': 2.9}
+{'text': 'To jest coœ, co super mo¿na wykorzystaæ \ni bêdzie uniwersalnie dobrze rozumiane.', 'start': 743.4, 'duration': 5.1}
+{'text': 'Nastêpne to przestrzeñ.', 'start': 748.5, 'duration': 1.4}
+{'text': 'Przestrzeñ i jeszcze raz przestrzeñ.', 'start': 749.9, 'duration': 2.0}
+{'text': 'Jêzyki migowe to s¹ jêzyki wizualno-przestrzenne.', 'start': 751.9, 'duration': 3.3}
+{'text': 'Ró¿nym jakby rzeczom, osobom w tym dyskursie naszym, \nkiedy siê wypowiadamy,', 'start': 755.2, 'duration': 5.5}
+{'text': 'przypisuje siê jakiœ punkt w naszej przestrzeni, \nkiedy o tym opowiadamy.', 'start': 760.7, 'duration': 5.0}
+{'text': 'I dziêki temu mo¿emy siê do tego w dowolny sposób odnosiæ.', 'start': 765.7, 'duration': 3.8}
+{'text': 'I to, ¿e na przyk³ad ja zamiga³am, ¿e w³aœnie tutaj \nktoœ mówi, a ja do Ciebie migam.', 'start': 769.5, 'duration': 5.3}
+{'text': 'Ty migasz, ja mówiê, tak?', 'start': 774.8, 'duration': 2.0}
+{'text': 'Tu jakby wykorzystuje siê do tego cia³o.', 'start': 776.8, 'duration': 3.2}
+{'text': 'Wykorzystuje siê ca³¹ przestrzeñ tutaj przed sob¹.', 'start': 780.0, 'duration': 3.5}
+{'text': 'I to wyra¿a relacje pomiêdzy tymi rzeczami o których opowiadam.', 'start': 783.5, 'duration': 5.3}
+{'text': 'No wiec tak bez wspólnego jêzyka na co najmniej fajnym, komunikatywnym poziomie', 'start': 788.8, 'duration': 6.4}
+{'text': 'mo¿na siê dogadaæ, mo¿na uci¹æ pogawêdkê, \nco widaæ na tym przyk³adzie.', 'start': 795.2, 'duration': 5.0}
+{'text': 'Ale po pierwsze.', 'start': 800.2, 'duration': 1.3}
+{'text': 'Trzeba mieæ jakiœ inny jêzyk migowy na dobrym poziomie,', 'start': 801.5, 'duration': 4.2}
+{'text': '¿eby móc z tego czerpaæ.', 'start': 805.7, 'duration': 1.5}
+{'text': 'A po drugie.', 'start': 807.2, 'duration': 0.8}
+{'text': 'Myœlê, ¿e to na pewno nie bêdzie tak pog³êbiona, \nszybka i luŸna wymiana zdañ,', 'start': 808.0, 'duration': 7.5}
+{'text': 'jak by by³a, gdybyœmy mieli ten jeden naturalny, wspólny jêzyk.', 'start': 815.5, 'duration': 4.8}
+{'text': 'Czyli na przyk³ad oboje byœmy pos³ugiwali siê \npolskim jêzykiem migowym,', 'start': 820.3, 'duration': 3.7}
+{'text': 'czy oboje ukraiñskim jêzykiem migowym.', 'start': 824.0, 'duration': 2.2}
+{'text': 'Zawsze, kiedy jest ta komunikacja pomiêdzy osobami ', 'start': 826.2, 'duration': 4.5}
+{'text': 'z ró¿nych pañstw, z ró¿nym jêzykiem migowym', 'start': 830.7, 'duration': 3.3}
+{'text': 'trzeba w³o¿yæ w tê komunikacjê trochê wiêcej.', 'start': 834.0, 'duration': 3.7}
+{'text': 'Trzeba bardziej byæ wizualnym.', 'start': 837.7, 'duration': 3.3}
+{'text': 'Trzeba jeszcze bardziej... jeszcze bardziej korzystaæ \nz tej przestrzeni i z tych wskazów.', 'start': 841.0, 'duration': 6.5}
+{'text': 'I z mimiki.', 'start': 847.5, 'duration': 2.2}
+{'text': 'I te¿ nie migaæ jakoœ super szybko,', 'start': 849.7, 'duration': 2.0}
+{'text': 'no, bo wiadomo, ¿e normalnie, jak siê miga, \nto miga siê super szybko.', 'start': 851.7, 'duration': 3.7}
+{'text': 'Czyli tak, jak mówi¹ G³usi zwykle, tê komunikacjê trzeba...', 'start': 855.4, 'duration': 4.7}
+{'text': 'Po prostu tak jakby rozci¹gn¹æ trzeba trochê ten komunikat,', 'start': 860.1, 'duration': 4.9}
+{'text': '¿eby dogadaæ siê pomiêdzy dwoma jêzykami.', 'start': 865.0, 'duration': 3.7}
+{'text': 'Do jakiego stopnia to mo¿e byæ pog³êbiona rozmowa', 'start': 868.7, 'duration': 3.1}
+{'text': 'du¿o, du¿o w tym ma to na jakim poziomie s¹ ci rozmówcy.', 'start': 871.8, 'duration': 5.7}
+{'text': 'Na pewno, gdyby zamiast mnie w tej rozmowie \nby³a druga osoba g³ucha,', 'start': 877.5, 'duration': 5.7}
+{'text': 'to ich rozmowa by³aby bardziej pog³êbiona, ', 'start': 883.2, 'duration': 2.7}
+{'text': 'ni¿ moja rozmowa z Panem g³uchym z innym jêzykiem.', 'start': 885.9, 'duration': 4.9}
+{'text': 'Ok, dajcie znaæ, jaka jest Wasza reakcja na to,', 'start': 890.8, 'duration': 2.9}
+{'text': '¿e bêdziemy na tym kanale trochê skrêcaæ na nowe rzeczy.', 'start': 893.7, 'duration': 3.3}
+{'text': 'Anegdotyczne, ale jednak powi¹zane \nz jakimiœ zajawkami jêzykowymi.', 'start': 897.0, 'duration': 4.0}
+{'text': 'Mam nadziejê, ¿e Wam siê to podoba.', 'start': 901.0, 'duration': 1.4}
+{'text': 'Z niektórymi mo¿e siê po¿egnamy.', 'start': 902.4, 'duration': 1.9}
+{'text': 'Z niektórymi siê przywitamy.', 'start': 904.3, 'duration': 1.2}
+{'text': 'Takie jest ¿ycie, wielki kr¹g ¿ycia.', 'start': 905.5, 'duration': 2.4}
+{'text': 'Dziêki za ogl¹danie, pa pa.', 'start': 908.5, 'duration': 1.5}
