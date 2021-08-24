@@ -1,8 +1,5 @@
 from yt_libraries import *
 
-link = 'https://www.youtube.com/watch?v=rc_y0H4Rb2I'
-
-
 # working
 
 # downloads subtitles using YoutubeTranscriptApi and saves it to txt file
@@ -10,11 +7,33 @@ def download_subtitles(code):
     srt = YouTubeTranscriptApi.get_transcript(code, languages=["pl"])
     with open(f"{code}.txt", "w") as f:
         for i in srt:
-            f.write(f"{i}\n")
+            try:
+                f.write(f"{i}\n")
+            except:
+                print('Error with downloading subtitles')
+# working 
+hashcodes_to_download = []
+def read_hashcode(filename):
+    with open(filename, 'r') as f:
+        for line in f:
+            try:
+                new_line = (f"{line}").replace('\n','')
+                # print(new_line)
+                hashcodes_to_download.append(new_line)
+            except:
+                print("Space")
+    for hash in hashcodes_to_download:
+        print(hash)
+        download_subtitles(hash)
 
-download_subtitles('yYTes03bvgM')
+
+# read_hashcode('hashcodes_billie_sparrow.txt')
+    # download_subtitles(hash)
 
 
+
+
+# download_subtitles('UKl6DMzrD1U')
 ####################################################################################
 
 # working
@@ -45,8 +64,17 @@ def clean_text(file, file_code):
         for item in clean_text:
             f.write("%s\n" % item)
 
-clean_text('yYTes03bvgM.txt', 'clean_yYTes03bvgM.txt')
+# clean_text('yYTes03bvgM.txt', 'clean_yYTes03bvgM.txt')
+# read_hashcode('hashcodes_billie_sparrow.txt')
 
+
+for hash in hashcodes_to_download:
+        try:
+            line = (f"{hash}").replace('\n','')
+            print(line)
+            clean_text(f"'{line}.txt'", f"'clean_{line}.txt'")
+        except:
+            print("Space")
 
 ####################################################################################
 #working
@@ -58,7 +86,7 @@ def check_lanuguage(clean_file):
     if filesize == 0:
         print("The file is empty: " + str(filesize))
     else:
-        print("The file is not empty: " + str(filesize) + '-> None')
+        print("The file is not empty: " + str(filesize))
         with open(clean_file) as f:
             for text in f:
                 list.append(text.replace('\n',''))
@@ -84,4 +112,5 @@ def check_lanuguage(clean_file):
 # starts downloading.sh file and runs it
 # in downloading.sh file the txt files with links to videos are opened
 # the program in shell script downloads it 
+
 # os.system("sh downloading.sh")

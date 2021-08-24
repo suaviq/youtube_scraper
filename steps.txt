@@ -1,1 +1,0 @@
-pobieranie audio oraz tekst w formie id_filmy (np. rc_y0H4Rb2I)

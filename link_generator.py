@@ -1,9 +1,6 @@
 from yt_libraries import *
 from data_structures import *
 
-#for page in yt_polish:
-#   find_codes(yt_polish)
-
 HEADER = {
     "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36'
 }
@@ -81,9 +78,64 @@ def hashcode(file, name):
 
     print('done -> hashcode')
 
-find_links(yt_polish[0], yt_polish_authors[0])
-hashcode(f"links_{yt_polish_authors[0]}.txt", yt_polish_authors[0])
 
-find_links(yt_polish[1], yt_polish_authors[1])
-hashcode(f"links_{yt_polish_authors[1]}.txt", yt_polish_authors[1])
 
+########################################################################################################################################################################
+
+# working
+def search_keyword(keyword):
+    #create links:
+    # the "&sp=EgIoAQ%253D%253D" after links is filter to show only videos with subtitles
+    url = f'https://www.youtube.com/results?search_query={keyword}&sp=EgIoAQ%253D%253D'
+    chrome_path = r'C:/Users/alase/Downloads/chromedriver_win32/chromedriver.exe'
+    driver = webdriver.Chrome(chrome_path)
+    driver.get(url)
+    time.sleep(3)
+    # working
+    consent_button_xpath = "//tp-yt-paper-button[@aria-label='Agree to the use of cookies and other data for the purposes described']"
+    button = driver.find_element_by_xpath(consent_button_xpath)
+    button.click()
+    # 
+
+    list_yt = []
+
+    # scroll down till the end of the page
+    # get scroll height
+    previous_height = driver.execute_script('return document.body.scrollHeight')
+    while True:
+        # scroll down to bottom
+        driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
+        time.sleep(3)
+        # calculate new scroll height and compare it with last scroll height
+        new_height = driver.execute_script('return document.body.scrollHeight')
+        if new_height == previous_height:
+            break
+        previous_height = new_height
+
+    time.sleep(2)
+
+    # find links from whole site
+    links=driver.find_elements_by_xpath('//*[@id="video-title"]')
+
+    for link in links:
+        print(link.get_attribute("href"))
+        list_yt.append(link.get_attribute("href"))
+    
+    # idk why but first 'if' didnt remove all None arguments
+    print('\n\n\n\n')
+    for element in list_yt:
+        if element == None:
+            list_yt.remove(element)
+        if element == None:
+            list_yt.remove(element)
+    print(list_yt)
+
+    # save them to txt file 
+    with open(f'links_{keyword}.txt', 'w') as f:
+        for item in list_yt:
+                f.write("%s\n" % item)
+
+    print('done -> find links')
+
+# search_keyword('depresja')
+# hashcode('links_test.txt', 'test1')
