@@ -137,5 +137,17 @@ def search_keyword(keyword):
 
     print('done -> find links')
 
-# search_keyword('depresja')
-# hashcode('links_test.txt', 'test1')
+def iterate_keywords(file_keywords):
+    # link_item.txt, hashcode_item.txt
+    with open(file_keywords, 'r') as a_file:
+        print('here')
+        try:
+            for line in a_file:
+                print('there')
+                keyword =  line.strip()
+                search_keyword(keyword)
+                hashcode(f'links_{keyword}.txt', keyword)
+        except Exception as e:
+            print(e)
+            
+iterate_keywords('keywords.txt')

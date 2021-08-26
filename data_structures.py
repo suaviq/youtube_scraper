@@ -6,10 +6,26 @@ yt_japanese = ['https://www.youtube.com/c/AniMelody2/videos','https://www.youtub
 def generate_name_of_files():
     for n in range(0,6):
         links = "links_" +  yt_polish_authors[n]
+        hashcodes = "hashcodes_" + yt_polish_authors[n]
         print(links)
-    for x in range(0,6):   
-        hashcodes = "hashcodes_" + yt_polish_authors[x]
-        print(hashcodes)
+        # print(hashcodes)
+        
+    print('\n\n\n')
 
+    with open('keywords.txt', 'r') as f:
+        links_key = []
+        for line in f:
+            lin_e = line.replace('\n', '')
+            link =f'links_{lin_e}.txt'
+            print(link)
+            links_key.append(link)
+            links_key.append('\n')
+            hashcode = 'hashcodes_' + line + '.txt'
+            # print(hashcode)
+        outF = open('links.txt', 'w')
+        for line in links_key:
+            outF.write(line)
+        outF.close()
 
+            
 generate_name_of_files()
